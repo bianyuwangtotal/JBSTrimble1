@@ -10,6 +10,7 @@ namespace gittest.Controllers
     {
         public ActionResult Index()
         {
+            var t = "test";
             return View();
         }
 
